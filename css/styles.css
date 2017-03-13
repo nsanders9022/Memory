@@ -7,17 +7,20 @@
   margin-bottom: 20px;
   text-align: center;
   vertical-align: middle;
+
+}
+.backcards {
   background-image: url("https://d1zr3pdt21yylq.cloudfront.net/sites/default/files/styles/card_gallery_image_medium/public/card_images/Card-Rainbow-4.jpg?itok=NkOyn852");
 }
 
-.cardback1 {
+.cardfront1 {
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/cc/4d/3c/cc4d3c35dc61404d485c1ae880151c09.jpg");
 }
 
-.cardback2 {
+.cardfront2 {
   background-image: url("http://akns-images.eonline.com/eol_images/Entire_Site/2016229/rs_600x600-160329123233-600-Lisa-Frank-Unicorn.jm.32916.jpg");
 }
 
-.cardback3 {
+.cardfront3 {
   background-image: url("https://edblogging.files.wordpress.com/2015/05/i2xmhay.jpg");
 }
